@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200;300;400;500;600;700;800&display=swap);@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+body {
+    background-color: lightgrey;
+}
+h1 {
+    color:rgb(70, 98, 158);
+    text-align: center;
+}
+h2 {
+    color: green;
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+q {
+    font-size: 20px;
+    margin-left: 15px;
+}
+.q-author{
+    margin-left: 15px;
+}
+.wikipedia  {
+    color: rgb(177, 40, 132);
+    font-weight: bold;
+    font-size: 20px;
+}
+.wikipedia-link {
+    color: rgb(70, 98, 158);
+    font-style: italic;
+}
